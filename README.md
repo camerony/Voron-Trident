@@ -1,5 +1,10 @@
-# Voron Trident
+# Voron Trident - LDO Version
 
-![Image of Voron Trident](https://vorondesign.com/images/voron_trident.jpg)
+## This repo is modified for the LDO release of the Trident 250x250x250 and 300x300x300
 
-The official release of the Voron Trident 3D printer.  You can find the Build of Materials in the configurator located at the [Voron Design]( http://vorondesign.com/voron_trident) web site.  The recommended sizes for this printer are 250x250x250, 300x300x250 and 350x350x250.
+## For the Voron Official Repo [Voron Design Trident Repo](https://github.com/VoronDesign/Voron-Trident)
+
+![LDO Logo](https://docs.ldomotors.com/ldo_logo.svg)  
+![Voron Logo](https://vorondesign.com/images/voron_design_logo.png)
+
+![Image of LDO Voron Trident](https://docs.ldomotors.com/ldo_vtd_1.jpg)
